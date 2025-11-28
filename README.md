@@ -113,7 +113,8 @@ Includes user stories for:
 - Navigation
 
 
-📁 Project Structure
+## 📁 Project Structure
+
 
 
 HobbyExplorer/
@@ -124,15 +125,16 @@ HobbyExplorer/
 │   ├── main/java/com.hobbyexplorer.pages/
 │   │    ├── HomePage.java
 │   │    ├── LoginPage.java
+│
 │── src/test/java/com.hobbyexplorer.tests/
 │   ├── BaseTest.java
 │   ├── SignInTest.java
 │   ├── GenreSelectionTest.java
 │   ├── UserSelectInterestTest.java
 │   ├── MultipleInterestSelectionTest.java
+│
 │── pom.xml
 │── README.md
-
 
 
 ▶️ How to Run the Automated Tests
