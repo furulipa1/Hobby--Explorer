@@ -1,13 +1,13 @@
-**Hobby Explorer – QA Portfolio Project**
+Hobby Explorer – QA Portfolio Project
 
 A full end-to-end QA project showcasing manual testing, UI automation (Java + Selenium + TestNG), and product documentation for a real hobby discovery web application.
 
+📌 Project Overview
 
-**📌 Project Overview**
+Hobby Explorer is a web application that helps users discover new hobbies based on their interests, goals, and preferences.
+This project was created as part of my QA portfolio to demonstrate real-world testing skills, including manual testing, UI automation, defect reporting, and Agile documentation.
 
-Hobby Explorer is a web application that helps users discover new hobbies based on their interests, goals, and preferences. This project was created as part of my QA portfolio to demonstrate real-world testing skills, including manual testing, UI automation, defect reporting, and Agile documentation.
-
-The project includes:
+This project includes:
 
 Fully written test cases and acceptance criteria
 
@@ -19,9 +19,8 @@ Functional tests for genre selection, user interests, and navigation
 
 Bug reports, user stories, and sprint-style documentation
 
-
-**✅ Features & Test Coverage
-🔍 Manual Testing**
+✅ Features & Test Coverage
+🔍 Manual Testing
 
 Full test case suite (functional, UI, regression)
 
@@ -37,15 +36,15 @@ Cross-browser smoke tests (Chrome + Safari)
 
 Automated tests included in this project:
 
-Positive Login Test – verifies users can sign in with valid credentials
+Positive Login Test – verifies valid login
 
-Negative Login Test – verifies login fails with incorrect password and displays a toast error
+Negative Login Test – verifies invalid login shows error toast
 
-Genre Selection Test – iterates through all hobby genres and validates navigation
+Genre Selection Test – loops through all genres + validates navigation
 
-User Interest Selection Test – selects interests and validates recommended results
+User Interest Selection Test – selects interests + validates recommended results
 
-Multi-Interest Flow – tests selecting multiple interests, navigating between pages, and handling UI waits
+Multi-Interest Flow – selects multiple interests, handles waits, verifies navigation
 
 📂 Test Architecture
 
@@ -55,25 +54,21 @@ BasePage for reusable actions (click, type, wait)
 
 BaseTest for WebDriver setup/teardown
 
-Modular pages: HomePage, LoginPage, etc.
+Modular pages (HomePage, LoginPage, etc.)
 
-TestNG annotations and structured reports
+TestNG annotations + structured reporting
 
-
-**📄 Manual QA Documentation**
-
-This project includes complete manual QA deliverables that mirror real-world Agile workflows:
-
+📄 Manual QA Documentation
 📝 Test Cases
 
 40+ detailed test cases covering login, home page, interests, genre selection, navigation, and recommendations
 
 Organized in Qase.io (Test Management Tool)
 
-Includes preconditions, steps, expected results, test data, and pass/fail results
+Includes preconditions, steps, expected results, test data, pass/fail
 
-👉 Link to test case suite: (add your Qase link here)
-(If private, write “Available upon request.”)
+👉 Link to test case suite: Add your Qase link here
+(If private: “Available upon request.”)
 
 🐛 Bug Reports
 
@@ -81,7 +76,7 @@ All defects include:
 
 Steps to reproduce
 
-Expected vs. actual result
+Expected vs. actual results
 
 Screenshots / videos
 
@@ -89,11 +84,11 @@ Severity & priority
 
 Testing environment
 
-
+👉 Link to bug reports: Add your link here
 
 📌 User Stories + Acceptance Criteria
 
-Includes user stories you wrote for the project:
+Includes user stories for:
 
 Login flow
 
@@ -105,10 +100,9 @@ Navigation
 
 Bookmarking (future)
 
-**
-Project Structure**
+👉 Link to user stories: Add your link here
 
-
+📁 Project Structure
 HobbyExplorer/
 │── src/
 │   ├── main/java/com.hobbyexplorer.core/
@@ -129,25 +123,21 @@ HobbyExplorer/
 │── pom.xml
 │── README.md
 
-
-
 ▶️ How to Run the Automated Tests
 
 You can run the UI automation suite on any machine with Java and Maven installed.
 
 🛠️ Prerequisites
 
-Make sure you have:
-
 Java 17+
 
 Maven
 
-Google Chrome (default browser used)
+Chrome
 
-Git installed
+Git
 
-Check versions:
+Check your versions:
 
 java -version
 mvn -version
@@ -156,27 +146,10 @@ mvn -version
 git clone https://github.com/YOUR-USERNAME/Hobby--Explorer.git
 cd Hobby--Explorer
 
-
-(Replace YOUR-USERNAME with your GitHub username.)
-
-▶️ Run All Tests With Maven
+▶️ Run All Tests with Maven
 mvn clean test
 
-
-This will:
-
-Launch WebDriver
-
-Open your hobby explorer app
-
-Run all TestNG tests
-
-Show results in the terminal
-
 🎯 Run a Single Test Class
-
-You can run only one test if you want:
-
 mvn -Dtest=SignInTest test
 
 
@@ -186,58 +159,49 @@ mvn -Dtest=GenreSelectionTest test
 
 🧪 TestNG Reports
 
-After running the suite, TestNG generates a full HTML report:
+HTML report generated at:
 
 /target/surefire-reports/index.html
 
-
-You can open it in a browser to see passed/failed tests.
-
-
 🚀 Future Enhancements
-
-This project is actively growing. Here are planned improvements to expand test coverage and technical depth:
-
 🔧 Automation Enhancements
 
 Add cross-browser testing (Firefox, Edge)
 
-Add headless mode for CI/CD pipelines
+Enable headless mode for CI/CD
 
-Integrate with GitHub Actions for automated test runs
+Add GitHub Actions pipeline
 
 Add more UI flows (bookmarking, filtering, profile settings)
 
-Expand negative test scenarios (invalid emails, empty fields, rate limits)
+Expand negative scenarios (invalid email, empty fields)
 
 🧪 API Testing
 
-Create full API test suite using Postman or RestAssured
+Build Postman/RestAssured API suite
 
 Validate recommendations endpoint
 
-Add contract testing + schema validation
+Add contract testing / schema validation
 
-Add mocked responses for edge cases
+Mocked edge-case responses
 
-📱 Mobile Testing (Optional)
+📱 Mobile Testing
 
-Create mobile tests using Appium (future roadmap)
+Appium mobile flows
 
-Validate responsive UI behavior
+Responsive UI tests
 
 📊 QA Documentation
 
 Add test plan + test strategy
 
-Add risk analysis + mitigation strategies
+Add risk analysis
 
-Add traceability matrix (user story ↔ test cases ↔ automation)
+Add traceability matrix
 
 🎥 Optional Enhancements
 
-Add screenshots or GIF demos of UI flows
+Add screenshots or GIFs
 
-Add badges (build passing, license, coverage, etc.)
-
-
+Add build/test badges
