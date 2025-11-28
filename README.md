@@ -1,106 +1,118 @@
-Hobby Explorer – QA Portfolio Project
+**Hobby Explorer – QA Portfolio Project**
 
-A full end-to-end QA project showcasing manual testing, UI automation (Java + Selenium + TestNG), and product documentation for a real hobby discovery web application.
+  A full end-to-end QA project showcasing manual testing, UI automation (Java + Selenium + TestNG), and product documentation for a real hobby discovery web application.
+
+
 
 📌 Project Overview
 
-Hobby Explorer is a web application that helps users discover new hobbies based on their interests, goals, and preferences.
+  Hobby Explorer is a web application that helps users discover new hobbies based on their interests, goals, and preferences.
 This project was created as part of my QA portfolio to demonstrate real-world testing skills, including manual testing, UI automation, defect reporting, and Agile documentation.
 
-This project includes:
+  This project includes:
 
 Fully written test cases and acceptance criteria
 
-UI test automation using Java, Selenium WebDriver, and TestNG
+- UI test automation using Java, Selenium WebDriver, and TestNG
 
-Negative and positive login flows
+- Negative and positive login flows
 
-Functional tests for genre selection, user interests, and navigation
+- Functional tests for genre selection, user interests, and navigation
 
-Bug reports, user stories, and sprint-style documentation
+- Bug reports, user stories, and sprint-style documentation
+
+
 
 ✅ Features & Test Coverage
+
+
 🔍 Manual Testing
 
-Full test case suite (functional, UI, regression)
+- Full test case suite (functional, UI, regression)
 
-User story review + acceptance criteria
+- User story review + acceptance criteria
 
-Bug reporting with clear reproduction steps
+- Bug reporting with clear reproduction steps
 
-Exploratory testing of all major flows
+- Exploratory testing of all major flows
 
-Cross-browser smoke tests (Chrome + Safari)
+- Cross-browser smoke tests (Chrome + Safari)
 
-🧪 Automated UI Testing (Selenium + Java + TestNG)
 
-Automated tests included in this project:
 
-Positive Login Test – verifies valid login
+  🧪 Automated UI Testing (Selenium + Java + TestNG)
 
-Negative Login Test – verifies invalid login shows error toast
+- Automated tests included in this project:
 
-Genre Selection Test – loops through all genres + validates navigation
+- Positive Login Test – verifies valid login
 
-User Interest Selection Test – selects interests + validates recommended results
+- Negative Login Test – verifies invalid login shows error toast
 
-Multi-Interest Flow – selects multiple interests, handles waits, verifies navigation
+- Genre Selection Test – loops through all genres + validates navigation
+
+- User Interest Selection Test – selects interests + validates recommended results
+
+- Multi-Interest Flow – selects multiple interests, handles waits, verifies navigation
+
+
 
 📂 Test Architecture
 
-Page Object Model (POM)
+- Page Object Model (POM)
 
-BasePage for reusable actions (click, type, wait)
+- BasePage for reusable actions (click, type, wait)
 
-BaseTest for WebDriver setup/teardown
+- BaseTest for WebDriver setup/teardown
 
-Modular pages (HomePage, LoginPage, etc.)
+- Modular pages (HomePage, LoginPage, etc.)
 
-TestNG annotations + structured reporting
+- TestNG annotations + structured reporting
+
+
 
 📄 Manual QA Documentation
+
+
 📝 Test Cases
 
-40+ detailed test cases covering login, home page, interests, genre selection, navigation, and recommendations
+- 40+ detailed test cases covering login, home page, interests, genre selection, navigation, and recommendations
 
-Organized in Qase.io (Test Management Tool)
+- Organized in Qase.io (Test Management Tool)
 
-Includes preconditions, steps, expected results, test data, pass/fail
+- Includes preconditions, steps, expected results, test data, pass/fail
 
-👉 Link to test case suite: Add your Qase link here
-(If private: “Available upon request.”)
+
 
 🐛 Bug Reports
 
 All defects include:
 
-Steps to reproduce
+- Steps to reproduce
 
-Expected vs. actual results
+- Expected vs. actual results
 
-Screenshots / videos
+- Screenshots / videos
 
-Severity & priority
+- Severity & priority
 
-Testing environment
+- Testing environment
 
-👉 Link to bug reports: Add your link here
+
 
 📌 User Stories + Acceptance Criteria
 
 Includes user stories for:
 
-Login flow
+- Login flow
 
-Interest selection
+- Interest selection
 
-Genre recommendation
+- Genre recommendation
 
-Navigation
+- Navigation
 
-Bookmarking (future)
 
-👉 Link to user stories: Add your link here
+
 
 📁 Project Structure
 HobbyExplorer/
@@ -122,6 +134,8 @@ HobbyExplorer/
 │
 │── pom.xml
 │── README.md
+
+
 
 ▶️ How to Run the Automated Tests
 
@@ -163,45 +177,53 @@ HTML report generated at:
 
 /target/surefire-reports/index.html
 
+
+
 🚀 Future Enhancements
 🔧 Automation Enhancements
 
-Add cross-browser testing (Firefox, Edge)
+- Add cross-browser testing (Firefox, Edge)
 
-Enable headless mode for CI/CD
+- Enable headless mode for CI/CD
 
-Add GitHub Actions pipeline
+- Add GitHub Actions pipeline
 
-Add more UI flows (bookmarking, filtering, profile settings)
+- Add more UI flows (bookmarking, filtering, profile settings)
 
-Expand negative scenarios (invalid email, empty fields)
+- Expand negative scenarios (invalid email, empty fields)
+
+
 
 🧪 API Testing
 
-Build Postman/RestAssured API suite
+- Build Postman/RestAssured API suite
 
-Validate recommendations endpoint
+- Validate recommendations endpoint
 
-Add contract testing / schema validation
+- Add contract testing / schema validation
 
-Mocked edge-case responses
+- Mocked edge-case responses
+
+
 
 📱 Mobile Testing
 
-Appium mobile flows
+- Appium mobile flows
 
-Responsive UI tests
+- Responsive UI tests
+
+
 
 📊 QA Documentation
 
-Add test plan + test strategy
+- Add test plan + test strategy
 
-Add risk analysis
+- Add risk analysis
 
-Add traceability matrix
+- Add traceability matrix
 
 🎥 Optional Enhancements
 
-Add screenshots or GIFs
+- Add screenshots or GIFs
 
-Add build/test badges
+- Add build/test badges
