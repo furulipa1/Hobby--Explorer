@@ -1,25 +1,26 @@
 **Hobby Explorer – QA Portfolio Project**
 
-  A full end-to-end QA project showcasing manual testing, UI automation (Java + Selenium + TestNG), and product documentation for a real hobby discovery web application.
-
+A complete end-to-end QA project demonstrating manual testing, UI automation (Java + Selenium + TestNG), API testing prep, bug reporting, and Agile-style documentation for a real hobby discovery application.
 
 
 📌 Project Overview
 
-  Hobby Explorer is a web application that helps users discover new hobbies based on their interests, goals, and preferences.
-This project was created as part of my QA portfolio to demonstrate real-world testing skills, including manual testing, UI automation, defect reporting, and Agile documentation.
+Hobby Explorer is a web app that helps users discover hobbies based on their interests.
+This project demonstrates full QA lifecycle coverage, including:
 
-  This project includes:
+- 40+ manual test cases
 
-Fully written test cases and acceptance criteria
+- UI automation using Selenium WebDriver (Java + TestNG + POM)
 
-- UI test automation using Java, Selenium WebDriver, and TestNG
+- Negative + positive login tests
 
-- Negative and positive login flows
+- User interest & genre recommendation flow testing
 
-- Functional tests for genre selection, user interests, and navigation
+- Bug reports with steps to reproduce
 
-- Bug reports, user stories, and sprint-style documentation
+- User stories with acceptance criteria
+
+- Sprint-style documentation
 
 
 
@@ -112,26 +113,23 @@ Includes user stories for:
 - Navigation
 
 
-
-
 📁 Project Structure
+
+
 HobbyExplorer/
 │── src/
 │   ├── main/java/com.hobbyexplorer.core/
-│   │     ├── BasePage.java
-│   │     ├── DriverFactory.java
-│   │
-│   └── main/java/com.hobbyexplorer.pages/
-│         ├── HomePage.java
-│         ├── LoginPage.java
-│
+│   │    ├── BasePage.java
+│   │    ├── DriverFactory.java
+│   ├── main/java/com.hobbyexplorer.pages/
+│   │    ├── HomePage.java
+│   │    ├── LoginPage.java
 │── src/test/java/com.hobbyexplorer.tests/
-│         ├── BaseTest.java
-│         ├── SignInTest.java
-│         ├── GenreSelectionTest.java
-│         ├── UserSelectInterestTest.java
-│         ├── MultipleInterestSelectionTest.java
-│
+│   ├── BaseTest.java
+│   ├── SignInTest.java
+│   ├── GenreSelectionTest.java
+│   ├── UserSelectInterestTest.java
+│   ├── MultipleInterestSelectionTest.java
 │── pom.xml
 │── README.md
 
