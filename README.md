@@ -41,7 +41,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-  🧪 Automated UI Testing (Selenium + Java + TestNG)
+🧪 Automated UI Testing (Selenium + Java + TestNG)
 
 - Automated tests included in this project:
 
