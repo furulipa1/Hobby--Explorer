@@ -3,7 +3,7 @@
 A complete end-to-end QA project demonstrating manual testing, UI automation (Java + Selenium + TestNG), API testing prep, bug reporting, and Agile-style documentation for a real hobby discovery application.
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 Hobby Explorer is a web app that helps users discover hobbies based on their interests.
 This project demonstrates full QA lifecycle coverage, including:
@@ -24,7 +24,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-✅ Features & Test Coverage
+**✅ Features & Test Coverage**
 
 
 🔍 Manual Testing
@@ -41,7 +41,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-🧪 Automated UI Testing (Selenium + Java + TestNG)
+**🧪 Automated UI Testing (Selenium + Java + TestNG)**
 
 - Automated tests included in this project:
 
@@ -57,7 +57,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-📂 Test Architecture
+**📂 Test Architecture**
 
 - Page Object Model (POM)
 
@@ -71,7 +71,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-📄 Manual QA Documentation
+**📄 Manual QA Documentation**
 
 
 📝 Test Cases
@@ -84,7 +84,7 @@ This project demonstrates full QA lifecycle coverage, including:
 
 
 
-🐛 Bug Reports
+**🐛 Bug Reports**
 
 All defects include:
 
@@ -100,7 +100,7 @@ All defects include:
 
 
 
-📌 User Stories + Acceptance Criteria
+**📌 User Stories + Acceptance Criteria**
 
 Includes user stories for:
 
@@ -139,7 +139,7 @@ HobbyExplorer/
 
 
 
-▶️ How to Run the Automated Tests
+**▶️ How to Run the Automated Tests**
 
 You can run the UI automation suite on any machine with Java and Maven installed.
 
@@ -153,7 +153,7 @@ Chrome
 
 Git
 
-Check your versions:
+**Check your versions:**
 
 java -version
 mvn -version
@@ -181,8 +181,10 @@ HTML report generated at:
 
 
 
-🚀 Future Enhancements
-🔧 Automation Enhancements
+**🚀 Future Enhancements**
+
+
+**🔧 Automation Enhancements**
 
 - Add cross-browser testing (Firefox, Edge)
 
@@ -196,7 +198,7 @@ HTML report generated at:
 
 
 
-🧪 API Testing
+**🧪 API Testing**
 
 - Build Postman/RestAssured API suite
 
@@ -208,7 +210,7 @@ HTML report generated at:
 
 
 
-📱 Mobile Testing
+**📱 Mobile Testing**
 
 - Appium mobile flows
 
@@ -216,7 +218,7 @@ HTML report generated at:
 
 
 
-📊 QA Documentation
+**📊 QA Documentation**
 
 - Add test plan + test strategy
 
@@ -224,8 +226,8 @@ HTML report generated at:
 
 - Add traceability matrix
 
-🎥 Optional Enhancements
-
+**🎥 Optional Enhancements
+**
 - Add screenshots or GIFs
 
 - Add build/test badges
