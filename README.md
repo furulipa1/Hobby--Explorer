@@ -115,9 +115,28 @@ Includes user stories for:
 
 ## 📁 Project Structure
 
+```
+HobbyExplorer/
+│── src/
+│   ├── main/java/com.hobbyexplorer.core/
+│   │    ├── BasePage.java
+│   │    ├── DriverFactory.java
+│   ├── main/java/com.hobbyexplorer.pages/
+│   │    ├── HomePage.java
+│   │    ├── LoginPage.java
+│
+│── src/test/java/com.hobbyexplorer.tests/
+│   ├── BaseTest.java
+│   ├── SignInTest.java
+│   ├── GenreSelectionTest.java
+│   ├── UserSelectInterestTest.java
+│   ├── MultipleInterestSelectionTest.java
+│
+│── pom.xml
+│── README.md
+```
 
 
-<pre> ``` HobbyExplorer/ │── src/ │ ├── main/java/com.hobbyexplorer.core/ │ │ ├── BasePage.java │ │ ├── DriverFactory.java │ ├── main/java/com.hobbyexplorer.pages/ │ │ ├── HomePage.java │ │ ├── LoginPage.java │ │── src/test/java/com.hobbyexplorer.tests/ │ ├── BaseTest.java │ ├── SignInTest.java │ ├── GenreSelectionTest.java │ ├── UserSelectInterestTest.java │ ├── MultipleInterestSelectionTest.java │ │── pom.xml │── README.md ``` </pre>
 
 
 ▶️ How to Run the Automated Tests
