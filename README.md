@@ -198,16 +198,12 @@ HTML report generated at:
 
 
 
-**🧪 API Testing**
+**API Testing (Postman)**
 
-- Build Postman/RestAssured API suite
-
-- Validate recommendations endpoint
-
-- Add contract testing / schema validation
-
-- Mocked edge-case responses
-
+- Created a Postman collection using the public JSONPlaceholder API.
+- Implemented GET tests for valid and invalid resource IDs.
+- Added a POST test (`/posts`) with automated checks for 201 status and JSON fields.
+- Used Postman test scripts (`pm.expect`) to validate status codes and response structure.
 
 
 **📱 Mobile Testing**
