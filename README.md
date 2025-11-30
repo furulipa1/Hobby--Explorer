@@ -113,7 +113,7 @@ Includes user stories for:
 - Navigation
 
 
-## 📁 Project Structure## 📁 Project Structure (POM Architecture)
+## 📁 Project Structure (POM Architecture)
 
 
 A clean Page Object Model structure with separated tests, pages, core utilities, and driver setup.
