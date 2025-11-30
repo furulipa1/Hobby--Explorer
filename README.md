@@ -123,7 +123,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ### 📁 Project Structure (POM)
 
-<img width="372" height="400" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/7ef80b50-4156-494e-b9d7-8eb889875df2" />
+<img width="372" height="300" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/7ef80b50-4156-494e-b9d7-8eb889875df2" />
 
 <br><br>
 
