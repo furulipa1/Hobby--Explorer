@@ -121,19 +121,14 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ## 📸 Automation Screenshots
 
-<img width="200" height="400" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/4dd06fb7-844b-4225-ab30-562c6b0ff582" />
 
+### 🧪 TestNG Results
+<img width="300" height="200" src="IMAGE1_URL" />
 
+<br><br>
 
-
-
-
-
-<img width="300" height="400" alt="Screenshot 2025-11-30 at 1 54 23 PM" src="https://github.com/user-attachments/assets/41270ee1-b91c-485b-a32c-880c67f51d72" />
-
-
-
-
+### 🧭 Project Structure
+<img width="300" height="400" src="IMAGE2_URL" />
 
 
 **▶️ How to Run the Automated Tests**
