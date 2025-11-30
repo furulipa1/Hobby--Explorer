@@ -121,7 +121,8 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ## 📸 Automation Screenshots
 
-<img src="screenshots/project-structure.png" width="450">
+<img width="200" height="400" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/4dd06fb7-844b-4225-ab30-562c6b0ff582" />
+
 
 
 
