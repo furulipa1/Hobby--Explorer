@@ -134,6 +134,18 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 <img width="700" height="500" alt="Screenshot 2025-11-30 at 1 54 23 PM" src="https://github.com/user-attachments/assets/4f814600-4283-4172-9d8f-ed0d70ebbe8b" />
 
 
+<br><br>
+
+
+
+### 🎯 Interest Selection Flow – Automated Browser Interaction
+
+
+
+<img width="1470" height="956" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b036d7d2-f62d-4f60-a3d2-be79fbe9755d" />
+
+
+
 **▶️ How to Run the Automated Tests**
 
 You can run the UI automation suite on any machine with Java and Maven installed.
