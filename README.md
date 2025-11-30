@@ -113,36 +113,17 @@ Includes user stories for:
 - Navigation
 
 
-## 📁 Project Structure
+## 📁 Project Structure## 📁 Project Structure (POM Architecture)
 
-```
-HobbyExplorer/
-│── src/
-│   ├── main/java/com.hobbyexplorer.core/
-│   │    ├── BasePage.java
-│   │    ├── DriverFactory.java
-│   ├── main/java/com.hobbyexplorer.pages/
-│   │    ├── HomePage.java
-│   │    ├── LoginPage.java
-│
-│── src/test/java/com.hobbyexplorer.tests/
-│   ├── BaseTest.java
-│   ├── SignInTest.java
-│   ├── GenreSelectionTest.java
-│   ├── UserSelectInterestTest.java
-│   ├── MultipleInterestSelectionTest.java
-│
-│── pom.xml
-│── README.md
-```
+
+A clean Page Object Model structure with separated tests, pages, core utilities, and driver setup.
+
+
+## 📸 Automation Screenshots
+
 
 
 <img width="372" height="591" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/5c82c7c7-e88a-43a2-b931-286f598ed3c0" />
-
-
-
-
-
 
 
 **▶️ How to Run the Automated Tests**
