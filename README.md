@@ -130,7 +130,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ### 🧭 Project Structure
 
-<img width="1106" height="500" alt="Screenshot 2025-11-30 at 1 54 23 PM" src="https://github.com/user-attachments/assets/4f814600-4283-4172-9d8f-ed0d70ebbe8b" />
+<img width="700" height="500" alt="Screenshot 2025-11-30 at 1 54 23 PM" src="https://github.com/user-attachments/assets/4f814600-4283-4172-9d8f-ed0d70ebbe8b" />
 
 
 **▶️ How to Run the Automated Tests**
