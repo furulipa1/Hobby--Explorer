@@ -121,44 +121,23 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ## 📸 Automation Screenshots
 
-
-### 🧪 Project Structure
-<img width="372" height="400" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/8860a8b8-64d8-43c9-baae-67cb8d5874aa" />
-
+### 📁 Project Structure (POM)
+<img width="350" src="POM_URL" />
 
 <br><br>
 
-### 🧭 ### 🧪 Test Execution Results (SignIn Test)
-
-
-<img width="700" height="500" alt="Screenshot 2025-11-30 at 1 54 23 PM" src="https://github.com/user-attachments/assets/4f814600-4283-4172-9d8f-ed0d70ebbe8b" />
-
+### 🧪 Test Execution Results (SignIn Test)
+<img width="500" src="TESTNG_URL" />
 
 <br><br>
 
+### 🔐 SignIn Flow – Negative Login (Automated Browser Interaction)
+<img width="500" src="NEGATIVE_LOGIN_URL" />
 
+<br><br>
 
 ### 🎯 Interest Selection Flow – Automated Browser Interaction
-
-
-
-<img width="372" height="400" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b036d7d2-f62d-4f60-a3d2-be79fbe9755d" />
-
-
-<br><br>
-
-
-### 🔐 SignIn Flow – Negative Test (Automated Browser Interaction)
-
-
-
-
-<img width="372" height="400" alt="Screenshot 2025-11-30 at 2 31 11 PM" src="https://github.com/user-attachments/assets/98239143-f8d0-40c6-8427-6c4d5099afe4" />
-
-
-<br><br>
-
-
+<img width="500" src="INTEREST_SELECTION_URL" />
 
 **▶️ How to Run the Automated Tests**
 
