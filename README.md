@@ -142,7 +142,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 
 
-<img width="1470" height="956" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b036d7d2-f62d-4f60-a3d2-be79fbe9755d" />
+<img width="372" height="400" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b036d7d2-f62d-4f60-a3d2-be79fbe9755d" />
 
 
 
