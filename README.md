@@ -123,7 +123,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ### 📁 Project Structure (POM)
 
-<img width="372" height="500" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/7ef80b50-4156-494e-b9d7-8eb889875df2" />
+<img width="372" height="400" alt="Screenshot 2025-11-30 at 1 51 56 PM" src="https://github.com/user-attachments/assets/7ef80b50-4156-494e-b9d7-8eb889875df2" />
 
 <br><br>
 
@@ -143,7 +143,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 ### 🎯 Interest Selection Flow – Automated Browser Interaction
 
-<img width="1470" height="956" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/385645fd-30a7-4b5a-a954-4306fe65cce6" />
+<img width="372" height="400" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/385645fd-30a7-4b5a-a954-4306fe65cce6" />
 
 
 **▶️ How to Run the Automated Tests**
