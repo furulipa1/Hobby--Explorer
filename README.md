@@ -123,7 +123,7 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 
 
 
-img src="screenshots/project-structure.png" width="450">
+<img src="screenshots/project-structure.png" width="450">
 
 
 **▶️ How to Run the Automated Tests**
