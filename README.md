@@ -145,6 +145,18 @@ A clean Page Object Model structure with separated tests, pages, core utilities,
 <img width="372" height="400" alt="Screenshot 2025-11-30 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b036d7d2-f62d-4f60-a3d2-be79fbe9755d" />
 
 
+<br><br>
+
+
+### 🔐 SignIn Flow – Negative Test (Automated Browser Interaction)
+
+
+
+
+<img width="372" height="400" alt="Screenshot 2025-11-30 at 2 31 11 PM" src="https://github.com/user-attachments/assets/98239143-f8d0-40c6-8427-6c4d5099afe4" />
+
+
+
 
 **▶️ How to Run the Automated Tests**
 
