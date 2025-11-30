@@ -3,6 +3,23 @@
 A complete end-to-end QA project demonstrating manual testing, UI automation (Java + Selenium + TestNG), API testing prep, bug reporting, and Agile-style documentation for a real hobby discovery application.
 
 
+## 🧠 Why This Project Matters
+
+Hobby Explorer was built to demonstrate real-world QA skills across the full testing lifecycle.  
+This project shows that I can design, execute, and automate tests for a real application—not just follow tutorials.
+
+### 🔍 Skills Demonstrated
+- **Functional testing** (login, navigation, interest selection, recommendations)
+- **Negative testing** (invalid login, invalid inputs)
+- **Automated UI testing** with Selenium WebDriver (Java + TestNG + POM)
+- **Page Object Model design** (clean, reusable test architecture)
+- **Bug reporting** with clear repro steps, expected vs actual, and severity
+- **Test case writing** in Qase.io (40+ manual test cases)
+- **Agile-style documentation**: user stories, acceptance criteria, DoD
+- **Version control**: Git + GitHub workflow
+
+
+
 **📌 Project Overview**
 
 Hobby Explorer is a web app that helps users discover hobbies based on their interests.
