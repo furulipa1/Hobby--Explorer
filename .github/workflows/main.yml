@@ -1,6 +1,6 @@
 github/workflows
 
-name: CI
+name:CI
 
 on:
   push:
