@@ -1,6 +1,6 @@
 **Hobby Explorer – QA Portfolio Project**
 
-A complete end-to-end QA project demonstrating manual testing, UI automation (Java + Selenium + TestNG), API testing prep, bug reporting, and Agile-style documentation for a real hobby discovery application.
+A complete end-to-end QA project demonstrating manual testing, UI automation (Java + Selenium + TestNG), API testing prep, bug reporting, and Agile-style documentation for a real hobby discovery application
 
 
 ## 🧠 Why This Project Matters
