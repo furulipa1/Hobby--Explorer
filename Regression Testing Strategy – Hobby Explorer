@@ -1,0 +1,54 @@
+# Regression Testing Strategy – Hobby Explorer
+
+This document outlines the risk-based approach used to regression test core user flows in Hobby Explorer before releases.
+
+## Features Included in Regression Testing
+
+The following features are included in regression testing because they are critical to core user access and overall application functionality.
+
+### User Login
+- Ensures users can successfully authenticate and access their accounts
+- A failure in this flow blocks all user interaction within the application
+
+### User Sign-Up
+- Verifies new users can create an account without errors
+- Directly impacts user onboarding and product adoption
+
+### Interest Selection
+- Core feature of Hobby Explorer that captures user preferences
+- Ensures selected interests are saved correctly and persist across sessions
+
+### Navigation
+- Validates users can move between key pages without errors or broken routes
+- Prevents blockers that would limit access to primary application features
+
+### Session Handling
+- Ensures user sessions remain stable during normal application usage
+- Validates users remain logged in across page refreshes and feature interactions
+
+## Regression Test Execution Approach
+
+### Test Type
+Regression testing is primarily executed using structured manual test cases that cover core user flows. Exploratory testing is used selectively to validate application stability after changes and to identify unexpected behavior.
+
+### Execution Order
+1. **User Authentication (Login / Sign-Up)**
+   - Verified first because failures here block all user access to the application
+
+2. **Core Application Features (Interest Selection)**
+   - Validated next to ensure primary user functionality works as expected
+
+3. **Navigation Between Key Pages**
+   - Ensures users can move through the application without errors or broken routes
+
+4. **Session Handling and Stability**
+   - Confirmed last to verify users remain logged in during normal application usage
+
+### Timing and Frequency
+Regression testing is executed after bug fixes, feature updates, or configuration changes to ensure core functionality remains stable. Regression runs are prioritized before planned releases and after fixes that impact critical user flows.
+
+## Exit Criteria
+- All regression test cases covering critical user flows have been executed
+- No open blocker or critical defects related to core application functionality
+- Minor defects are documented, reviewed with developers, and assessed as low risk to the release
+- Known issues and limitations are communicated prior to release
